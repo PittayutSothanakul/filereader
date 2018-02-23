@@ -3,7 +3,7 @@ by Pittayut Sothanakul 5910546678
 
 I ran the tasks on a MacBook Pro (Retina, 15-inch, Mid 2015) with 2.2 GHz Intel Core i7, and got these results:
 
-Task
+Task | Time
 -----------------------------------------------|----------------:
 Read file 1-char at a time to String           |  1.333935 sec
 Read file 1-char at a time to StringBuilder    |  0.005986 sec
